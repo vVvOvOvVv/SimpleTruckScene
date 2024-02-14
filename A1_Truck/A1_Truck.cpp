@@ -121,8 +121,8 @@ static void init(GLFWwindow* window) {
 	// set the color the color buffer should be initially cleared to
 	glClearColor(gBGColor.r, gBGColor.g, gBGColor.b, 1.0f);
 
-	// set window title to name and UOW num
-	string title = "Salangsang Verna Beltran - 7433517";
+	// set window
+	string title = "Simple Truck Scene";
 	glfwSetWindowTitle(window, title.c_str());
 
 	// compile and link a vertex and fragment shader pair
