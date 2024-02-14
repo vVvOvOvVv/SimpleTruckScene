@@ -1,0 +1,5 @@
+﻿  A1_Truck.cpp
+C:\Users\VvVvV\OneDrive\VvVvV\OneDrive\Desktop\SIM\Course Materials\Y3-2024\2024-Q1\CSCI336 - Interactive Computer Graphics\CSCI336 - Assignments\A1\A1_Truck\A1_Truck\A1_Truck.cpp(81,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VvVvV\OneDrive\VvVvV\OneDrive\Desktop\SIM\Course Materials\Y3-2024\2024-Q1\CSCI336 - Interactive Computer Graphics\CSCI336 - Assignments\A1\A1_Truck\A1_Truck\A1_Truck.cpp(86,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\VvVvV\OneDrive\VvVvV\OneDrive\Desktop\SIM\Course Materials\Y3-2024\2024-Q1\CSCI336 - Interactive Computer Graphics\CSCI336 - Assignments\A1\A1_Truck\A1_Truck\A1_Truck.cpp(504,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  A1_Truck.vcxproj -> C:\Users\VvVvV\OneDrive\VvVvV\OneDrive\Desktop\SIM\Course Materials\Y3-2024\2024-Q1\CSCI336 - Interactive Computer Graphics\CSCI336 - Assignments\A1\A1_Truck\Debug\A1_Truck.exe
