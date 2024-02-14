@@ -1,5 +1,6 @@
 # SimpleTruckScene
-The scene is a simple programm of a truck on top of thhe ground.
+The scene is a simple programm of a truck on top of the ground.
+
 FUNCTIONS ================================================================
 
 Users can interact with the scene via the arrow keys:
@@ -11,3 +12,7 @@ Users can also manipulate the scene via the UI to:
 - change the color of the background
 - tilt the ground, and change its slope
 
+Users can also read different information on the UI
+- frame rate
+- frame time
+- the truck's x-coordinate
