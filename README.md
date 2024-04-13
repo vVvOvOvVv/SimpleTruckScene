@@ -1,6 +1,11 @@
 # SimpleTruckScene
 The scene is a simple programm of a truck on top of the ground.
 
+TO RUN THE PROGRAM =======================================================
+- download the repo as a .zip folder, and extract it
+- open the .sln in visual studio
+- run the program via visual studio 
+
 FUNCTIONS ================================================================
 
 Users can interact with the scene via the arrow keys:
